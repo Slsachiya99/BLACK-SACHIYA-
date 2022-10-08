@@ -19,7 +19,7 @@
 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+BLACK+TIGER+𝚃𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝗦𝗟.𝗦𝗔𝗖𝗛𝗜𝗬𝗔;𝐌𝐑:+BLACK♄TIGER♲;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=ආයුබොවන්+𝐓𝐨+𝗕𝗟𝗔𝗖𝗛╺+𝗧𝗜𝗚𝗘𝗥+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+BLACK+TIGER+𝚃𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝗦𝗟.𝗦𝗔𝗖𝗛𝗜𝗬𝗔;𝐌𝐑:+BLACK♄TIGER♲;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
 
 
@@ -27,19 +27,19 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 
 
-> [🔄Please Follow Me🤭](https://github.com/prabhasha2006)
+> [🔄Please Follow Me🤭](https://github.com/Slsachiya99)
 
 
 
-<img src="./Android/database/K.Prabhasha-1.gif" alt="Loading..." width="310"/>
+<img src="https://i.imgur.com/XHhlqtK.jpeg" alt="Loading..." width="310"/>
 
 
 
-> Image Designed By  ==(Dineth Indusara)== RED DRAGON TEAM
+> Image Designed By  ==(𝚂𝙰𝙲𝙷𝙸𝚃𝙷)== 𝙱𝙻𝙰𝙲𝙺 𝚃𝙸𝙶𝙴𝚁 𝚃𝙼
 
 
 
-> Created By ==(Kumuthu Prabhasha)== RED DRAGON TEAM
+> Created By ==(𝚂𝙻 𝚂𝙰𝙲𝙷𝙸𝚃𝙷)== 𝚂𝙻 𝚂𝙰𝙲𝙷𝙸𝚈𝙰  TEAM
 
 
 
@@ -81,7 +81,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 
 
-<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
+<img src="https://i.imgur.com/XHhlqtK.jpeg" alt="nz" width="350"/>
 
 
 
@@ -219,7 +219,7 @@ Recommended WhatsApp👇
 
 
 
-## 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐
+## 𝐌𝐑: 𝔹𝕃𝔸ℂ𝕂♲𝕋𝕀𝔾𝔼ℝ
 
 
 
@@ -281,7 +281,7 @@ Recommended WhatsApp👇
 
 
 
-## Thanks To
+## ~*ටැන්කියු*~
 
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
