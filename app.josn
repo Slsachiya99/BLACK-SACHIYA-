@@ -1,0 +1,47 @@
+{
+
+  "name": "BLACK TIGER  BOT",
+
+  "description": "BLACK TIGER - 𝘔𝘋 | By: RED-DRAGONᵀᴹ | 𝐌𝐑:  𝕊𝕃-𝔹𝕃𝔸ℂ𝕂-𝕋𝕀𝔾𝔼ℝ-𝔹𝕆𝕋 ",
+
+  "repository": "https://github.com/prabhasha2006/Red-Dragon",
+
+  "logo": "https://i.imgur.com/XHhlqtK.jpeg",
+
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+
+  "buildpacks": [
+
+    {
+
+      "url": "heroku/nodejs"
+
+    },
+
+    {
+
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+
+    },
+
+    {
+
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+
+    }
+
+  ],
+
+   "formation": {
+
+        "worker": {
+
+            "quantity": 1,
+
+            "size": "free"
+
+        }
+
+    }
+
+}
