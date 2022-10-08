@@ -61,7 +61,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 global.vcardowner = ['+380944814219'] // owner number
 
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.ownername = "sachiya" // owner name
 
 global.ytname = "" // yt chanel name
 
